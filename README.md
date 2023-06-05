@@ -1,6 +1,6 @@
 # Pixel Perfect (Complex) 
 
-![Pixel Perfect complx 2](https://github.com/prynskaf/pixel-perfect-complex/blob/main/images/pixel-perfect-complex.png?raw=true)
+![Pixel Perfect complex ](https://github.com/prynskaf/pixel-perfect-complex/blob/main/images/pixel-perfect-complex.png?raw=true)
 
 Description: This is my second pixel perfect work, showcasing a complex design with attention to detail. The design includes various elements such as navigation, header, content sections, and a footer. Each element is precisely aligned and styled according to the design specifications.
 
