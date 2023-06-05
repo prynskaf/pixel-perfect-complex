@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: rgb(238,174,202);
+}
+
+
+
+
+/* Desktop */
+.container {
+    margin: 25% 60px;
+    background-color: white;
+    padding: 40px 0px;
+    overflow: hidden;
+    height: 800px;   
+}
+
+
+main {
+    display: flex;
+    justify-content: center; 
+}
+
+
+.section__1 .section--icons {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 34px 0;
+}
+
+.section__1 .section--icons [class^="icons--"] {
+    border-radius: 10px;
+    border: 2px solid black;
+    padding: 3px;
+    margin: 0 4px;
+}
+
+.section__1 .section--text {
+   font-size: 20px;
+  margin-right: 60px;
+
+}
+.section__1 .section--icons .bi{
+    padding: 5px;
+    cursor: pointer;
+}
+
+
+.section__2  {
+    display: flex;
+    display: center;
+    justify-content: center;
+}
+
+.section__2 [class^="content--"] {
+    margin: 0 60px;
+    cursor: pointer; 
+}   
+
+.section__2 [class^="content--"] h1 {
+    font-size: 30px;
+
+}
+
+.section__2 [class^="content--"] p {
+    font-size: 20px;
+    margin: 30px 0;
+}
+
+footer {
+    /* background-color: red; */
+    height: 110px;
+    margin-top: 200px;
+    margin-left:    140px;
+    margin-right: 140px;
+}
+
+ footer .span {
+ border: 2px solid rgba(91, 89, 89, 0.371);
+ margin-bottom: 30px;
+
+} 
+
+ footer .footer__items {
+    display: flex;
+    align-items: center;
+    margin: 0;
+} 
+footer p {
+display: flex;
+font-size: 20px;
+margin-left: 10px;
+}
+
+
+footer .bi {
+    font-size: 25px;
+    font-weight: bold;
+} 
+
+
+
+
+
+
+
