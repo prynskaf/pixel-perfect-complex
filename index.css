@@ -85,8 +85,8 @@ footer {
     /* background-color: red; */
     height: 110px;
     margin-top: 200px;
-    margin-left:    140px;
-    margin-right: 140px;
+    margin-left:    120px;
+    margin-right: 120px;
 }
 
  footer .span {
@@ -103,7 +103,7 @@ footer {
 footer p {
 display: flex;
 font-size: 20px;
-margin-left: 10px;
+margin-left: 30px;
 }
 
 
